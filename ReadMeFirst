@@ -1,0 +1,2 @@
+-- Make sure to change MS SQL Data Source and credentials in web.config 
+-- admin("admin@RAM.com") user is configured for Movies records maintenance purpose, PW: zalak123#
